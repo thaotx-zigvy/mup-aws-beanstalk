@@ -1,5 +1,11 @@
 ## mup-aws-beanstalk
 
+FORK from [zodern mup-aws-beanstalk](https://www.npmjs.com/package/mup-aws-beanstalk)
+
+Add `--unsafe-perm` to `npm install`
+
+---
+
 Plugin for Meteor Up to deploy using AWS Beanstalk.
 
 Features:
