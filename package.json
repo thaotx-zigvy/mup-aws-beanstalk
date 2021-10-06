@@ -1,8 +1,11 @@
 {
   "name": "@fr0stf0x/mup-aws-beanstalk",
-  "version": "0.7.0-beta.4",
+  "version": "0.7.1",
   "description": "Deploy apps to AWS Elastic Beanstalk using Meteor Up",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/thaotx-zigvy/mup-aws-beanstalk.git"
+  },
   "scripts": {
     "prepare": "npm run build",
     "build": "babel src --out-dir lib --copy-files --source-maps",
