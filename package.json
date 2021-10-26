@@ -1,6 +1,6 @@
 {
-  "name": "@fr0stf0x/mup-aws-beanstalk",
-  "version": "0.7.3",
+  "name": "@zigvycorp/mup-aws-beanstalk",
+  "version": "1.0.0",
   "description": "Deploy apps to AWS Elastic Beanstalk using Meteor Up",
   "main": "index.js",
   "repository": {
